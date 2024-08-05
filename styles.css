@@ -1,0 +1,8 @@
+.hover-shrink {
+  transition: transform 0.2s ease;
+}
+
+.hover-shrink:hover {
+  transform: scale(0.95);
+}
+
